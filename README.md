@@ -1,8 +1,6 @@
 # Smart Building Occupancy 
 
-A machine-learning and LLM-assisted project that predicts whether a room is occupied using environmental sensor readings.
-
-The project supports smart-building applications such as automatic lighting, HVAC control, ventilation management, and energy optimization.
+A machine-learning and LLM-assisted project that predicts whether a room is occupied using environmental sensor readings.The project supports smart-building applications such as automatic lighting, HVAC control, ventilation management, and energy optimization.
 
 ## Project Objective
 
