@@ -164,4 +164,4 @@ PROJECT_DOCUMENTATION.md
 - Member 4: Fay Almasaud
 
 
-Note : this project was developed for educational purposes a a part of AI Solutions Development Bootcamp - Tuwaiq Academy 
+Note : this project was developed for educational purposes a a part of AI Solutions Development Bootcamp - Tuwaiq Academy.
